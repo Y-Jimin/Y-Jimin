@@ -34,7 +34,7 @@
 
 ## 🤔 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jak2899&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Y-Jimin&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jak2899&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Jimin&layout=compact&theme=radical" />
 </div>
