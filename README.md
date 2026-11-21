@@ -2,20 +2,19 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Jimin's%20GitHub&fontSize=40&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8E75B2&center=true&vCenter=true&width=640&lines=Student+PM+%26+Full-stack+Developer;Building+AI-powered+services;Leading+a+6-person+capstone+team)](https://github.com/Y-Jimin)
-
 <br/>
 
 ## 👀 About Me
 
 #### :mortar_board: Studying Computer Science & Engineering.
 #### :fire: Interested in Full-stack & AI Development.
-#### 🚀 Kakao Tech Campus (카테캠) 경북대 3팀
+#### 🚀 Kakao Tech Campus (카테캠) 4th 경북대 3팀
 
 <br/>
 
 ## 🎖 Prizes
 
+🥈 2026: 우수상 @ Kakao Tech Campus 4th batch 최종 발표 · Manager's Manager<br/>
 🥉 2026.08: 장려상 @ 멋쟁이사자처럼 연합 해커톤 '하루한글' (약 300팀 중 8위) [🔗](https://github.com/WriteGrow/WriteGrow-BE)<br/>
 🥈 2025.11: 우수상 @ KNU CSE 'AI-Conic 해커톤' · 마음일기<br/>
 🥇 2024.12: 대상 @ KNU 창업 부트캠프 (아이디어톤, 발표 담당)
@@ -24,13 +23,11 @@
 
 ## 🔖 Activities
 
-🚀 2026.04-: PM & AI Developer @ Kakao Tech Campus 4th batch (Agentic AI Track) · Manager's Manager · 경북대 3팀<br/>
-✊ 9th batch: Staff @ GET IT, KNU CSE SW & Startup Club<br/>
-🏥 2026.03-2026.06: PM & Backend @ 종합설계프로젝트1 'AIYA' · 야간 아동 응급 상담 LLM 서비스, 실서비스 배포 및 프로그램 저작권 등록<br/>
-💻 2026.01: Backend Intern @ Madison Technology, Vietnam (MOVE 베트남 인턴십)<br/>
-🗄️ 14th batch: Backend Member @ LIKELION (멋쟁이사자처럼)<br/>
-✊ 7th & 8th batch: President & Dev Educator @ GET IT · 웹 기초 5주 과정 재설계 및 강의, 무박 2일 창업 아이디어톤 운영<br/>
-✊ 1st, 2nd & 6th batch: Member & Staff @ GET IT
+🚀 2026.04-: PM & AI @ Kakao Tech Campus 4th batch · Manager's Manager<br/>
+✊ 1st, 2nd & 6th–9th batch: Member → Staff → President @ GET IT [🔗](https://getit.io.kr/)<br/>
+🏥 2026.03-2026.06: PM & Backend @ 종합설계프로젝트1 · AIYA<br/>
+💻 2026.01: Backend Intern @ Madison Technology, Vietnam<br/>
+🗄️ 14th batch: Backend Member @ LIKELION
 
 <br/>
 
