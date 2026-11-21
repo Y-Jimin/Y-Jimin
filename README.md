@@ -8,24 +8,24 @@
 
 #### :mortar_board: Studying Computer Science & Engineering.
 #### :fire: Interested in Full-stack & AI Development.
-#### 🚀 Kakao Tech Campus (카테캠) 4th 경북대 3팀
+#### 🚀 Kakao Tech Campus (카테캠) 경북대 3팀
 
 <br/>
 
 ## 🎖 Prizes
 
-🥈 2026: 우수상 @ Kakao Tech Campus 4th batch 최종 발표 · Manager's Manager<br/>
+🥈 2026.11: 우수상 @ Kakao Tech Campus 4th batch 최종 발표 · Manager's Manager [🔗](https://github.com/kakaotechcampus-4/ktc4-kyungpook-3)<br/>
 🥉 2026.08: 장려상 @ 멋쟁이사자처럼 연합 해커톤 '하루한글' (약 300팀 중 8위) [🔗](https://github.com/WriteGrow/WriteGrow-BE)<br/>
-🥈 2025.11: 우수상 @ KNU CSE 'AI-Conic 해커톤' · 마음일기<br/>
+🥈 2025.11: 우수상 @ KNU CSE 'AI-Conic 해커톤' · 마음일기 [🔗](https://github.com/Y-Jimin/AIconicHackthone_MindMirror)<br/>
 🥇 2024.12: 대상 @ KNU 창업 부트캠프 (아이디어톤, 발표 담당)
 
 <br/>
 
 ## 🔖 Activities
 
-🚀 2026.04-: PM & AI @ Kakao Tech Campus 4th batch · Manager's Manager<br/>
+🚀 2026.04-: PM & AI @ Kakao Tech Campus 4th batch · Manager's Manager [🔗](https://github.com/kakaotechcampus-4/ktc4-kyungpook-3)<br/>
 ✊ 1st, 2nd & 6th–9th batch: Member → Staff → President @ GET IT [🔗](https://getit.io.kr/)<br/>
-🏥 2026.03-2026.06: PM & Backend @ 종합설계프로젝트1 · AIYA<br/>
+🏥 2026.03-2026.06: PM & Backend @ 종합설계프로젝트1 · AIYA [🔗](https://github.com/JongProject4)<br/>
 💻 2026.01: Backend Intern @ Madison Technology, Vietnam<br/>
 🗄️ 14th batch: Backend Member @ LIKELION
 
